@@ -105,5 +105,3 @@ The system uses a **Random Forest Classifier**, a robust and reliable ensemble l
 3. [Intrusion Detection System Combined Enhanced Random Forest with SMOTE Algorithm](https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-022-00871-6)
 
 ---
-
-This content is properly formatted for GitHub Markdown and can be directly pasted into your `README.md` file. Replace the `https://github.com/your_username/network-intrusion-detection.git` link with the actual URL of your GitHub repository.
